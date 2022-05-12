@@ -24,4 +24,4 @@ client.on("message", msg => {
 
 
 
-client.login("OTc0MzM2NTUyMDYwNzQ3ODU3.GEyBcJ.WouGhH07iCPUDPHORUQItBFTw0rd7j2Wx4Tu9M")// Buraya Tokenini Yaz Yavrum
+client.login("")// Buraya Tokenini Yaz Yavrum
