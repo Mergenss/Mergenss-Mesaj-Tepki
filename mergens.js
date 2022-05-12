@@ -20,7 +20,7 @@ client.on("message", msg => {
 );
 
 
-
+// Bunu arttırabilirsin işte yarram 
 
 
 
