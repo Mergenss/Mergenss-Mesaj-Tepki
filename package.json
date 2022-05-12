@@ -1,0 +1,14 @@
+{
+  "name": "mergenss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mergens.js",
+  "scripts": {
+    "test": "node mergens.js"
+  },
+  "author": "Mergenss",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
